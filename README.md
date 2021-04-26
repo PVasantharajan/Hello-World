@@ -1,2 +1,2 @@
 # Hello-World
-An edit has been madde by jaeger
+An edit has been made by jaeger
